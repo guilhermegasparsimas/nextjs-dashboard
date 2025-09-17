@@ -48,7 +48,6 @@ export default function Page() {
             className="hidden md:block"
             alt="Sreenshots"
           />
-          <h1>Me Deleta</h1>
         </div>
       </div>
     </main>
